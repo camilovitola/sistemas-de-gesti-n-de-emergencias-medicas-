@@ -2,7 +2,7 @@
 **Proyecto académico – Programación Concurrente – NetBeans 21 / Java 17 / Maven**  
 **Autor:** camilo vitola   
 **Grupo:** com.iudigital  
-**Repositorio:** https://github.com/camilovitola/emergencias-medicas
+**Repositorio:** https://github.com/camilovitola/sistemas-de-gesti-n-de-emergencias-medicas
 
 ---
 
