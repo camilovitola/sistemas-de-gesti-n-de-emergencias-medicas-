@@ -123,19 +123,3 @@ Todo gestionado en `Emergency.compareTo()`.
 mvn clean package
 
 
-# Documento Técnico — Sistema de Gestión de Emergencias Médicas (Concurrencia)
-
-**Autor:** camilo vitola  
-**Proyecto:** emergencias-medicas — GroupId: com.iudigital  
-**Fecha:** 01 /12/2025
-
----
-
-## 1. Resumen ejecutivo
-Este documento describe la implementación de un simulador concurrente para la gestión de emergencias médicas. El sistema modela operadores que reciben llamadas, una cola priorizada de emergencias, despachadores que asignan recursos (ambulancias) gestionados por un singleton `ResourceManager` y un monitor que reporta estado en tiempo real.
-
-Objetivo: aplicar conceptos avanzados de concurrencia y multihilo en Java para manejar recursos compartidos en condiciones de alta presión.
-
----
-
-## 2. Diagrama de  clases 
