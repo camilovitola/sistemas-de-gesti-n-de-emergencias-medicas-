@@ -106,7 +106,7 @@ Todo gestionado en `Emergency.compareTo()`.
 1. Abrir NetBeans 21
 2. Abrir el proyecto `sistemas-de-gesti-n-de-emergencias-medicas-`
 3. Seleccionar `Main.java` como clase principal
-4. Presionar **Run** (F6)
+4. Presionar **Run** (F5)
 
 ### Resultado esperado:
 - Generación de emergencias
