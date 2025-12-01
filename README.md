@@ -104,7 +104,7 @@ Todo gestionado en `Emergency.compareTo()`.
 
 ### **Desde NetBeans (más fácil):**
 1. Abrir NetBeans 21
-2. Abrir el proyecto `emergencias-medicas`
+2. Abrir el proyecto `sistemas-de-gesti-n-de-emergencias-medicas-`
 3. Seleccionar `Main.java` como clase principal
 4. Presionar **Run** (F6)
 
